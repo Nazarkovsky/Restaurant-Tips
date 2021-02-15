@@ -7,7 +7,7 @@ See also here: https://user-images.githubusercontent.com/63872579/107982816-76e4
 
 The project file is uploaded in this repository as PDF
 
-The dataset was provided by the Bootcamp administration as a tips.xlsx 
+The dataset was provided by the Bootcamp administration as a tips.xlsx from Kaggle: https://www.kaggle.com/jsphyg/tipping
 
 ## Data types
 Continious data: Total bill, Size of group, Tip 
