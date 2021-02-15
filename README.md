@@ -11,9 +11,9 @@ Nominal (categorical) data: Sex, Smoker (Smoker/Non-smoker), Week's day, Time (L
 The project is devoted to the analysis of factors (regressors) which may affect the tips. As a result, the objective is to determine the conditions for the restaurant for a promotion and/or happy hours  
 
 ## Methods and Approaches
-● Means Comparison (Tukey-Kramer);
-● ANOVA;
-● Welch’s Method;
+● Means Comparison (Tukey-Kramer)
+● ANOVA
+● Welch’s Method
 ● Equality of Variances tests.
 
 ## Results and Discussions
