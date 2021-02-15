@@ -18,7 +18,9 @@ The project is devoted to the analysis of factors (regressors) which may affect 
 
 ## Results and Discussions
 1. No statistically significant difference has been found in Tip variances by the following factors: Sex, Smoker, Time e Days. But some observations for Time and Days are claimed;
-2. There is a positive correlation between Tips, Total_bill and Size of the Group;]
+https://user-images.githubusercontent.com/63872579/107980192-9af20400-6f9e-11eb-84ba-f314c3cfec8b.jpg
+
+2. There is a positive correlation between Tips, Total_bill and Size of the Group;
 https://user-images.githubusercontent.com/63872579/107977137-692a6e80-6f99-11eb-9d75-f1e727b37bd8.jpg
 3. The biggest contribution to Tips and Total bill is made by group of 2 clients in the dinner time;
 4. In terms of the week's days, the biggest contribution to Tips and Total bill is made by a groups of 2 clients, whose percentage is lowered on Sat and Sun;
