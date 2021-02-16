@@ -5,6 +5,8 @@ The project was prepared and submitted by C. Pinheiro, E. Carvalho, M. Nazarkovs
 
 See also [here](https://user-images.githubusercontent.com/63872579/107982816-76e4f180-6fa3-11eb-9ce9-e1abadab44ec.png)
 
+The [certificate](https://user-images.githubusercontent.com/63872579/108005546-c34a2480-6fd7-11eb-9402-421104deb356.jpg)
+
 The project file is uploaded in this repository as PDF
 
 The dataset was provided by the Bootcamp administration as a tips.xlsx [from Kaggle](https://www.kaggle.com/jsphyg/tipping)
