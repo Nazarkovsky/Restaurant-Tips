@@ -7,7 +7,7 @@ See also [here](https://user-images.githubusercontent.com/63872579/107982816-76e
 
 The [certificate](https://user-images.githubusercontent.com/63872579/108005546-c34a2480-6fd7-11eb-9402-421104deb356.jpg)
 
-The project file is uploaded in this repository as PDF
+The project file is uploaded in this repository as a PDF
 
 The dataset was provided by the Bootcamp administration as a tips.xlsx [from Kaggle](https://www.kaggle.com/jsphyg/tipping)
 
